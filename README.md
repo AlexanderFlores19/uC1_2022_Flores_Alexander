@@ -18,7 +18,7 @@ Universidad Nacional de Piura, Perú
 
 —> Proyectos:
 
->>Librería de Retardos.inc
+>>Retardos.inc
 
 >>P1-Corrimiento_Leds.X
 
