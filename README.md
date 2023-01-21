@@ -1,5 +1,4 @@
 UNP
-
 Curso = Microcontroladores 1
 
 Autor = Alexander Arturo Flores Juarez
@@ -17,6 +16,9 @@ Descripción = Este Repo esta hecho con la finalidad de subir todos los Trabajos
 Universidad Nacional de Piura, Perú
 
 —> Proyectos:
+
 >>Librería de Retardos.inc
+
 >>P1-Corrimiento_Leds.X
+
 >>P2-Pantalla_7seg.X
