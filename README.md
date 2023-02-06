@@ -23,3 +23,5 @@ Universidad Nacional de Piura, Perú
 >>P1-Corrimiento_Leds.X
 
 >>P2-Pantalla_7seg.X
+
+>>PARCIAL2_Flores_Juarez.X
